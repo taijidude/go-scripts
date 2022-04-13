@@ -22,8 +22,6 @@ func main() {
 	} else {
 		result = "failing"
 	}
-
 	fmt.Println("grade: " + input)
 	fmt.Println("status: " + result)
-
 }
